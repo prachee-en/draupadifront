@@ -68,15 +68,8 @@ function Profile({params}: {params: {id: string}}) {
             <span className="label-text mx-40">Your bio</span>
           </div>
           <div className="text-lg mb-6 textarea-bordered h-full p-4 mx-40 text-gray-700 placeholder-gray-500 placeholder-opacity-50 rounded-lg resize-none focus:ring focus:ring-primary focus:ring-opacity-50">
-            Mughda has over 20 years of experience in broadcast journalism. She
-            is also an Autism Activist, Corporate Trainer & Mindfulness Coach.
-            She runs a platform called 'Not The Different', in association with
-            Bookosmia- a leading creative platform for children in India. Not
-            That Different is India's first children-led movement in normalizing
-            conversations around neurodiversity and push for inclusion. She
-            continues to write for various portals and her on-screen assignments
-            have been for both news television and websites. Her forte is
-            storytelling and documentary writing.
+          Mughda has over 20 years of experience in broadcast journalism.
+           She is also an Autism Activist, Corporate Trainer, and Mindfulness Coach. She runs a platform called Not The Different, in association with Bookosmia, a leading creative platform for children in India. Not That Different is India’s first children-led movement in normalizing conversations around neurodiversity and pushing for inclusion. She continues to write for various portals and her on-screen assignments have been for both news television and websites. Her forte is storytelling and documentary writing.
           </div>
         </label>
       </div>

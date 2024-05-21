@@ -91,7 +91,7 @@ const EventForm: React.FC = () => {
               htmlFor="profileLink"
               className="input input-bordered flex items-center gap-2"
             >
-              Organiser's Profile Link
+              Organiser Profile Link
               <input
                 type="text"
                 id="profileLink"
