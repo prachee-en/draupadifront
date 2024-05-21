@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 import Link from "next/link";
 import {  useAuth } from "@/context/AuthContext";
 
-function speakerlist() {
+function Speakerlist() {
 
   const { user, login } = useAuth();
   console.log("spearker page per hu ra bhabaa", user)
@@ -107,4 +107,4 @@ function speakerlist() {
   }
 }
 
-export default speakerlist;
+export default Speakerlist;
